@@ -883,6 +883,9 @@ kbd {
 .article > .cow-visual .cow-body {
   padding-top: 20px;
 }
+.article > .cow-visual {
+  height: 285px;
+}
 .article > .cow-visual .cow-body pre {
   font-size: 16px;
   margin: 16px 0;
